@@ -1,0 +1,11 @@
+{
+  "name": "egg-hunt",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
